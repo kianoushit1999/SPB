@@ -14,7 +14,7 @@ from typing import Dict
 import asyncio
 
 load_dotenv(override=True)
-client = genai.Client(api_key="AIzaSyBVxjPgllJpL4O1Ouyw-keCvaa5ea9oEHA")
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 question_index = 0
 repeat_question = False
