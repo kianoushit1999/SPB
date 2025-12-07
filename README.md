@@ -1,4 +1,4 @@
-# Dr. Webda - AI Health Interview Assistant
+# AI Health Interview Assistant
 
 An intelligent Persian-language health interview system that conducts sequential medical interviews, calculates blood pressure predictions, and generates personalized health visualizations.
 
